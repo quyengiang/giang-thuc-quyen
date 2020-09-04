@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container
+{
+	width: 1600px;
+	height: 4000px;
+	background-color: aquamarine;
+	margin: 0px auto;
+		
+}
+.header
+{
+	width: 1600px;
+	height: 150px;
+	background-color: antiquewhite;
+	
+}
+.menu
+{
+width: 1300px;
+	height: 150px;
+	background-color: aqua;	
+	float: inherit;
+}
+.logo
+{
+	width: 300px;
+	height: 150px;
+	background-color: bisque;
+	float: left;
+}
+.slider
+{
+	width: 1600px;
+	height: 800px;
+	background-color: blanchedalmond;
+}
+.slider2
+{
+	width: 1600px;
+	height: 800px;
+	background-color:azure;
+}
+.quanque1
+{
+	width: 800px;
+	height: 1000px;
+	background-color:aliceblue;
+	padding: 400px;
+}
+.quanque
+{
+	width: 800px;
+	height: 800px;
+	background-color:#CD4345;
+	margin:auto;
+		
+}
