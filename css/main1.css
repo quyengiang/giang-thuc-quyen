@@ -6,7 +6,7 @@
 {
 	width: 1600px;
 	height: 4000px;
-	background-color: lightsteelblue;
+	background-color:aliceblue;
 	margin: 0 auto;
 
 }
@@ -19,16 +19,16 @@
 }
 .logo
 {
-	width: 300px;
+	width: 600px;
 	height: 130px;
-	background-color: lightsteelblue;
+	background-color: aliceblue;
 	float: left;
 }
 .menu
 {
-width: 1300px;
+width: 1000px;
 	height: 130px;
-	background-color:lightsteelblue;	
+	background-color:aliceblue;	
 	float:right;
 }
 .slider
@@ -43,19 +43,21 @@ width: 1300px;
 {
 	width: 1600px;
 	height: 500px;
-	background-color:lightsteelblue;
+	background-color:aliceblue;
 }
 .slider3
 {
 	width: 1600px;
-	height: 500px;
+	height: 600px;
 	background-color:aliceblue;
+	
+
 }
 .slider4
 {
 	width: 1400px;
 	height: 800px;
-	background-color:lightsteelblue;
+	background-color:aliceblue;
 	padding: 0 100px 0 100px;
 }
 .slider5
@@ -69,7 +71,7 @@ width: 1300px;
 {
 	width: 1600px;
 	height: 500px;
-	background-color:lightsteelblue;
+	background-color:aliceblue;
 	
 }
 .slider7
@@ -88,7 +90,8 @@ ul
 ul li
 {
 	float:left;
-	padding:50px 200px 30px 40px;
+	padding:50px 150px 30px 40px;
+	text-align: center;
 }
 ul li a
 {
@@ -98,13 +101,14 @@ ul li a
 ul li:hover
 {
 	background-color: cornflowerblue;
+	text-align: center;
 }
 .item
 {
-	width: 280px;
-	height: 280px;
+	width: 290px;
+	height: 290px;
 	background-color: dimgrey;
-	margin:50px 10px 0px 50px;
+	margin:40px 10px 0px 40px;
 	float: left;
 } 
 .item2
@@ -113,19 +117,17 @@ ul li:hover
 	height: 300px;
 	background-color: aliceblue;
 	float: left;
-	margin: 100px 130px 0px 100px;
-	border-radius: 50%;
+	margin: 50px 5px 0px 80px;
 	text-align: center;
 	line-height:80px;
 }
 .item3
 {
-	width: 200px;
-	height: 30px;
-	background-color:lightsteelblue;
+	width: 1400px;
+	height: 500px;
+	background-color:aliceblue;
 	float: left;
-	border-radius:50%;
-	margin: 450px 0px 0px 700px;
+	margin:5px 0px 0px 100px;
 	
 }
 .trai
@@ -133,7 +135,7 @@ ul li:hover
 	width: 800px;
 	height: 500px;
 	float:left;
-	background-color:lightsteelblue;
+	background-color:aliceblue;
 	margin:0px 0px 0px 400px;
 	text-align: center;
 }
@@ -155,7 +157,32 @@ ul li:hover
 	float:left;
 	text-align:left;
 } 
-
+.item6
+{
+	width: 1600px;
+	height: 600px;
+	background-color: aquamarine;
+	
+}
+.bentrai
+{
+	width: 500px;
+	height: 300px;
+	float:left;
+	background-color:aliceblue;
+	margin:100px 0px 0px 300px;
+	text-align: center;
+}
+.benphai
+{
+	width: 500px;
+	height: 300px;
+	float:left;
+	background-color:aliceblue;
+	margin:100px 0px 0px 10px;
+	text-align:left;
+	font-size: 20px
+}
 
 
 
